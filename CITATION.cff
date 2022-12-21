@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schiller"
+  given-names: "Nicolas"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Schiller"
+  given-names: "nicolas"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "AWS-golang-docker"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-12-21
+url: "https://github.com/Nicodc31/AWS-golang-docker"
